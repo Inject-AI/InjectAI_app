@@ -14,4 +14,4 @@ We pledge to make participation in our project a harassment-free experience for 
 - Dismissing or attacking inclusive contributions.
 
 ## Enforcement
-Instances of unacceptable behavior may be reported to [email@example.com].
+Instances of unacceptable behavior may be reported to [injectai.com].
